@@ -35,7 +35,7 @@ The goal of the challenge was to generate high-quality, descriptive captions for
 * **Optimization:** `bitsandbytes`, `peft` (LoRA).
 * **Data Processing:** `pandas`, `PIL` (Python Imaging Library).
 
-## ⚙️ Installation
+## Installation
 
 To reproduce the environment, install the required dependencies:
 
