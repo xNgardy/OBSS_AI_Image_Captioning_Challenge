@@ -1,4 +1,4 @@
-# 🥈 OBSS AI Image Captioning Challenge - 2nd Place Solution
+#  OBSS AI Image Captioning Challenge - 2nd Place Solution
 
 **Author:** Pelinsu Kaleli  
 **Competition:** OBSS AI Image Captioning Challenge (Kaggle)  
